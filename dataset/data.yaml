@@ -1,0 +1,7 @@
+path: C:/Games/smart_shelf/dataset
+train: images/train
+val: images/train
+
+names:
+  0: product
+  1: empty_shelf

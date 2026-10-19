@@ -1,0 +1,12 @@
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# YOLO weight files & runs output
+yolov8n.pt
+runs/
+
+# IDE / Editor settings
+.vscode/
